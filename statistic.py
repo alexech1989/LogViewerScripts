@@ -5,7 +5,6 @@
         en un archivo de estadisticas para su posterior analisis
 
     Desarrollado por: Daniel Echevarria Iparraguirre
-        sistemas8@carolinaperu.com
 
     Fecha Creacion: 17/06/2013
 

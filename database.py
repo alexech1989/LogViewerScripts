@@ -5,7 +5,6 @@
         en linea
 
     Desarrollado por: Daniel Echevarria Iparraguirre
-        sistemas8@carolinaperu.com
 
     Fecha Creacion: 17/06/2013
 

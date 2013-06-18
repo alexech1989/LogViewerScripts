@@ -4,7 +4,6 @@
     Descripcion: Modulo de clases de modelo del script
 
     Desarrollado por: Daniel Echevarria Iparraguirre
-        #sistemas8@carolinaperu.com
 
     Fecha Creacion: 17/06/2013
 
